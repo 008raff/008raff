@@ -1,4 +1,4 @@
-## Hi there 👋
+## Currently learning C++, UI Intermediate and Novice Modeller
 
 <!--
 **008raff/008raff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
